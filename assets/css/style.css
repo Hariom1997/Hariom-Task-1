@@ -1,0 +1,27 @@
+
+.video {
+    float: left;
+text-align: center;
+}
+
+.video iframe{
+    padding: 5px;
+    margin: 10px;
+    width: 16rem;
+    height: 8rem;
+}
+.video div{
+    margin: -10;
+}
+.cardb{
+    margin-left: 12%;
+    margin-top: 2%;
+    width: 80rem;
+}
+.bag{
+    background-image: url('../img/bag.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
